@@ -2,6 +2,9 @@ package hr.fer.zemris.java.webserver;
 
 /**
  * Runs the {@link SmartHttpServer}. Expects path to a file with server properties as a command
+ * Once when its running, try links:
+ * http://localhost:5721/index.html
+ * http://localhost:5721/scripts/doc1.smscr
  * line argument.
  * @author Mislav Gillinger
  * @version 1.0
